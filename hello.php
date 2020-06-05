@@ -1,2 +1,1 @@
-echo 'HelloWorld'
-echo 'flush'
+echo “<?php phpinfo(); ?>”
