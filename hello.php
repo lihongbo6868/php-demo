@@ -1,2 +1,5 @@
-<?php phpinfo(); ?>
-<?php echo "Hello World" ?>
+<?php 
+phpinfo(); 
+echo "Hello World";
+?>
+
